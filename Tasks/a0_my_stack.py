@@ -6,7 +6,7 @@ from typing import Any
 
 class Stack:
     def __init__(self):
-        ...  # todo для стека можно использовать python list
+        list = []  # todo для стека можно использовать python list
 
     def push(self, elem: Any) -> None:
         """
